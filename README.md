@@ -1,20 +1,20 @@
-## dev-environment
+# dev-environment
 Development environment set up for building and running Ethereum dApps and Smart Contracts
 
-# NodeJS and Node Package Manager (npm)
+## NodeJS and Node Package Manager (npm)
 https://nodejs.org
 
-# Solidity Compiler
+## Solidity Compiler
 npm install -g solc
 
-# Web3 (Ethereum Javascript API)
+## Web3 (Ethereum Javascript API)
 npm install -g web3
 
-# testrpc (Node.js based Ethereum client for testing and development)
+## testrpc (Node.js based Ethereum client for testing and development)
 npm install -g ethereumjs-testrpc
 
-# remix (Broswer based IDE for Solidity development and testing)
+## remix (Broswer based IDE for Solidity development and testing)
 https://remix.ethereum.org
 
-# MetaMask (Chrome browser extension)
+## MetaMask (Chrome browser extension)
 https://metamask.io/
