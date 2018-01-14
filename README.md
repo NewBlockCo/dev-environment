@@ -19,5 +19,8 @@ https://remix.ethereum.org
 ## Truffle (Development framework for Ethereum)
 http://truffleframework.com/
 
+## Ganache (Personal Ethereum blockchain for testing)
+http://truffleframework.com/ganache/
+
 ## MetaMask (Chrome browser extension)
 https://metamask.io/
