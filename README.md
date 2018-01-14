@@ -16,5 +16,8 @@ npm install -g ethereumjs-testrpc
 ## remix (Broswer based IDE for Solidity development and testing)
 https://remix.ethereum.org
 
+## Truffle (Development framework for Ethereum)
+http://truffleframework.com/
+
 ## MetaMask (Chrome browser extension)
 https://metamask.io/
