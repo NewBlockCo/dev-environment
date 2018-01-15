@@ -10,6 +10,10 @@ npm install -g solc
 ## Web3 (Ethereum Javascript API)
 npm install -g web3
 
+## Geth (Command line interface (CLI) for running full Ethereum node)
+https://geth.ethereum.org/
+https://github.com/ethereum/go-ethereum (source code)
+
 ## testrpc (Node.js based Ethereum client for testing and development)
 npm install -g ethereumjs-testrpc
 
